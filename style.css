@@ -640,6 +640,7 @@ a[data-lightbox]:hover img {
 }
 
 h1,
+h2,
 h3,
 h4,
 h5,
@@ -676,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 .tight-width-whitespace {
@@ -707,6 +708,10 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
     color: #fff;
+}
+
+.commentaire{
+    font-style: italic;
 }
 
 h3 {

@@ -639,6 +639,9 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+h2 {
+    color: #fff;
+}
 h1,
 h3,
 h4,

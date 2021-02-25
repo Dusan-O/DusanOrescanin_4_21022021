@@ -639,9 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h2 {
-    color: #fff;
-}
 h1,
 h3,
 h4,
@@ -679,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.2em;
 }
 
 .tight-width-whitespace {
@@ -709,6 +706,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: #fff;
 }
 
 h3 {

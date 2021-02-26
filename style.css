@@ -361,6 +361,11 @@ a:hover {
     z-index: 2;
 }
 
+.form-group{
+    padding: 10px;
+    text-align: justify;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;

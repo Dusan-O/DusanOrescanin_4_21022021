@@ -564,8 +564,6 @@ a[data-lightbox]:hover img {
     animation-fill-mode: none;
 }
 
-
-
 #lightbox-modal {
     display: flex;
     align-items: center;
@@ -791,7 +789,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #ee692b;
+    background: #d65e26;
     color: #FFFFFF!important;
 }
 

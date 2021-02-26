@@ -301,8 +301,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    height: 72px;
-    width:386px;
+    max-height: 144px;
+    max-width: 772px;
     margin: 0 5px 0 0;
     display: inline;
 }

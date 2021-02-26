@@ -301,8 +301,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
-    max-width:200px;
+    height: 72px;
+    width:386px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -558,6 +558,8 @@ a[data-lightbox]:hover img {
     -webkit-animation-fill-mode: none;
     animation-fill-mode: none;
 }
+
+
 
 #lightbox-modal {
     display: flex;
